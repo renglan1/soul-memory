@@ -1,0 +1,28 @@
+{
+  "name": "soul-memory",
+  "version": "1.0.0",
+  "description": "An application for recording features of a Soulslike playthrough",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renglan1/soul-memory.git"
+  },
+  "keywords": [
+    "soulslike",
+    "deaths",
+    "counter"
+  ],
+  "author": "renglan1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renglan1/soul-memory/issues"
+  },
+  "homepage": "https://github.com/renglan1/soul-memory#readme",
+  "devDependencies": {
+    "electron": "^35.1.1"
+  }
+}
